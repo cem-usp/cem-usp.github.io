@@ -1,3 +1,3 @@
 # cem-usp.github.io
 
-Redirects to <https://centrodametropole.fflch.usp.br/>.
+This page redirects to the Center for Metropolitan Studies (CEM) website: <https://centrodametropole.fflch.usp.br/>
